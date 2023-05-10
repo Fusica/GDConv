@@ -1,4 +1,5 @@
 # When Dynamic Convolution meets Ghost Features
+!(https://raw.github.com/Fusica/GDConv.git/main/title.png)
 This repository is a PyTorch implementation of our  paper: When Dynamic Convolution meets Ghost Features
 
 We will disclose the full code once the paper has been accepted.
